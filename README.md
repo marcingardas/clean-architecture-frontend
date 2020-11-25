@@ -26,6 +26,13 @@ yarn build
 
 ### Architectures
 
-#### 1. MVC Architecture
+#### MVC Architecture
 
-**Path:** `src/module/login`
+**Path:**
+```
+src/module/login
+```
+
+**Diagram:**
+
+<img src="./assets/frontend-architectures-mvc.svg">
