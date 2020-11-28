@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-import { boot } from './module/login/main';
+import { boot } from './module/login#clean-architecture/main';
 
 function App() {
     const [login, renderLogin] = useState(null);

@@ -26,11 +26,11 @@ yarn build
 
 ### Architectures
 
-#### MVC Architecture
+#### Clean Architecture (as defined by Robert C. Martin)
 
 **Path:**
 ```
-src/module/login
+src/module/login#clean-architecture
 ```
 
 **Diagram:**
